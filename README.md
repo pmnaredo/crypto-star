@@ -16,6 +16,6 @@ openzeppelin-solidity@2.3
 
 ### Token info
 
-Name: Star Notary Token
-Symbol: SNT
-Contract address: 0xF8AE21d2A5d5339B91df0B81Db54D1641838900D (Rinkeby)
+Name: Star Notary Token\
+Symbol: SNT\
+Contract address: 0xF8AE21d2A5d5339B91df0B81Db54D1641838900D (Rinkeby)\
